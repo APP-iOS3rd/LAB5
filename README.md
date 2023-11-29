@@ -1,4 +1,4 @@
-# ☕️Coffee Polio
+# ☕️ Coffee Polio
 
 <aside>
 💡 ’Coffee Polio’는 에스프레소 머신, 드립 장비, 캡슐 머신과 원두까지 한 눈에 찾아보고
@@ -38,39 +38,43 @@
 
 ## 1) Launch Screen
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/016ba6b8-2699-4134-b06e-8dda5e531c2a/d383d15d-00bb-4e77-a3ff-dade9ed2fd37/Untitled.png)
+<img width="240" alt="1" src="https://github.com/APP-iOS3rd/LAB5/assets/102159946/d5b145c9-a7dc-440a-a7a2-770842138d02">
 
 ## 2) 카테고리 선택
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/016ba6b8-2699-4134-b06e-8dda5e531c2a/8b544f51-027a-42bf-93ee-55028a4d21f6/Untitled.png)
+<img width="240" alt="2 1" src="https://github.com/APP-iOS3rd/LAB5/assets/102159946/1e87a40f-ff22-4b64-9c1c-928b6fb9909f">
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/016ba6b8-2699-4134-b06e-8dda5e531c2a/9a65bba0-4917-42ad-8650-e0ee74d75630/Untitled.png)
+<img width="240" alt="2 2" src="https://github.com/APP-iOS3rd/LAB5/assets/102159946/74692c72-1ae6-4baf-96d4-af19cc2bc0c6">
 
 - 초기 홈에서 카테고리를 선택하거나 커뮤니티를 선택합니다.
 - 에스프레소 머신을 클릭하면 각 종류 별 머신을 선택 할 수 있는 두 번째 카테고리 화면으로 이동합니다.
 
 ## 3) 머신 소개
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/016ba6b8-2699-4134-b06e-8dda5e531c2a/5ab4240c-3ee6-447d-931a-eab7fa9528b2/Untitled.png)
+<img width="240" alt="3" src="https://github.com/APP-iOS3rd/LAB5/assets/102159946/edb771f7-a651-430a-bbb2-3514716947ed">
 
 - 두 번째 카테고리를 선택하면 각 머신에 대한 설명이 나옵니다.
 - 제품 구매하러 가기 버튼을 클릭하면 제품 페이지로 이동합니다.
 
 ## 4) 제품 페이지
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/016ba6b8-2699-4134-b06e-8dda5e531c2a/8914e23a-4042-4e2b-8b59-8f974967f788/Untitled.png)
+<img width="240" alt="4" src="https://github.com/APP-iOS3rd/LAB5/assets/102159946/e0c3411c-7d1b-4387-b5ac-2e537746b278">
 
 - 제품을 클릭하면 상세 설명이 나옵니다.
 
 ## 5) 제품 상세 페이지
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/016ba6b8-2699-4134-b06e-8dda5e531c2a/088be65c-28bd-4253-826d-ae552d9853a7/Untitled.png)
+<img width="240" alt="5" src="https://github.com/APP-iOS3rd/LAB5/assets/102159946/5a3b6d35-c1b3-468a-b3e5-acf0ad44d67a">
 
 - 상품 설명을 스크롤 하면서 제품 설명 및 구매 후기를 볼 수 있습니다.
 
 ## 6) 장바구니, 커뮤니티, My
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/016ba6b8-2699-4134-b06e-8dda5e531c2a/6aa8bfd3-0acb-4131-a7e4-946827c8e1cf/Untitled.png)
+<img width="240" alt="6 1" src="https://github.com/APP-iOS3rd/LAB5/assets/102159946/3c16a63e-bfd8-47d0-a721-e98e5dc88839">
+
+<img width="240" alt="6 2" src="https://github.com/APP-iOS3rd/LAB5/assets/102159946/cf71d05c-7299-4eb9-aed1-c457e6865cb9">
+
+<img width="240" alt="6 3" src="https://github.com/APP-iOS3rd/LAB5/assets/102159946/22d342c8-a023-4a2c-b1c1-510e9b50a4eb">
 
 **장바구니**
 
@@ -78,14 +82,10 @@
 - 수량 선택
 - 최종 구매 및 결제 (추후)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/016ba6b8-2699-4134-b06e-8dda5e531c2a/88460a92-ac92-4ffe-837d-fa27369a48a6/Untitled.png)
-
 **커뮤니티**
 
 - 머신 사용법 영상 가이드
 - 원두 추천, 머신 추천 등
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/016ba6b8-2699-4134-b06e-8dda5e531c2a/240b61a4-8b97-4b59-928e-e3d55e7b42fb/Untitled.png)
 
 **My**
 
@@ -97,4 +97,10 @@
 
 # 📱앱 미리보기
 
-[피그마](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FCQnrFI7TqSxBTQFt0iS11f%2FCoffeePolio%3Fnode-id%3D151-2320%26starting-point-node-id%3D151%253A2320%26t%3Dx1jKG2JsV0ysgAzc-1%26scaling%3Dcontain%26mode%3Ddesign)
+<img width="240" alt="6 3" src="https://github.com/APP-iOS3rd/LAB5/assets/102159946/a44708dc-1172-4e69-9b62-89b6ba076168">
+
+##  링크
+<a href="#"><img width="20" alt="6 3" src="https://github.com/APP-iOS3rd/LAB5/assets/102159946/9e3bf9a5-ac40-4573-99c3-01700663c170"></a> [노션 바로가기](https://flying-income-eb3.notion.site/Lab5-Prototype-5fef36845e6b4ec99950ec88cd5fd53a)
+
+<a href="#"><img width="20" alt="6 3" src="https://github.com/APP-iOS3rd/LAB5/assets/102159946/1a198009-fe79-42eb-bc30-d10eea47fabe"></a> [피그마 바로가기](https://www.figma.com/proto/CQnrFI7TqSxBTQFt0iS11f/CoffeePolio?type=design&node-id=151-2320&t=vyLJ6wit2qzQzeeD-0&scaling=scale-down&page-id=54%3A560&starting-point-node-id=151%3A2320)
+
