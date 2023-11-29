@@ -97,4 +97,4 @@
 
 # 📱앱 미리보기
 
-https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FCQnrFI7TqSxBTQFt0iS11f%2FCoffeePolio%3Fnode-id%3D151-2320%26starting-point-node-id%3D151%253A2320%26t%3Dx1jKG2JsV0ysgAzc-1%26scaling%3Dcontain%26mode%3Ddesign
+[피그마](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FCQnrFI7TqSxBTQFt0iS11f%2FCoffeePolio%3Fnode-id%3D151-2320%26starting-point-node-id%3D151%253A2320%26t%3Dx1jKG2JsV0ysgAzc-1%26scaling%3Dcontain%26mode%3Ddesign)
