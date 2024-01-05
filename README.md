@@ -1,7 +1,7 @@
-# ☕️ Coffee Polio
+# ☕️ Coffee Folio
 
 <aside>
-💡 ’Coffee Polio’는 에스프레소 머신, 드립 장비, 캡슐 머신과 원두까지 한 눈에 찾아보고
+💡 ’Coffee Folio’는 에스프레소 머신, 드립 장비, 캡슐 머신과 원두까지 한 눈에 찾아보고
 구매할 수 있는 커피 마켓 & 커뮤니티 서비스 입니다
 </aside>
 
